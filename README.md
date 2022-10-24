@@ -3,7 +3,9 @@
 
 <table>
   <tr>
-    <td valign="center">
+    <td valign="center">  
+      
+      
       🎓 I am currently pursuing my **Bachelor's in Information Technology and Software Engineering**.  
       
       🌱 I am currently learning **C** and also interested in **Cloud and Systems Development and Maintenance**.  
