@@ -14,10 +14,10 @@
       
       ✨ I believe programming languages are just tools to adapt to according to the situation. 
       
+    
+   </td>
     <td>
-       <a href="https://app.daily.dev/kelvink"><img src="https://api.daily.dev/devcards/00b88e58f5b04e1692cf59516f7f8edf.png?r=snj" width="400" alt="Absolutekelvin273's Dev Card"/></a>
-
-
+      <a href="https://app.daily.dev/kelvink"><img src="https://api.daily.dev/devcards/00b88e58f5b04e1692cf59516f7f8edf.png?r=snj" width="400" alt="Absolutekelvin273's Dev Card"/></a>
     </td>
     
   </tr>
