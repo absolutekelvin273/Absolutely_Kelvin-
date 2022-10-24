@@ -12,10 +12,11 @@
       
       🎯 My Goal is to gain more and more knowledge  to as many **open source project** as possible.  
       
-      ✨ I love to create different types of **contents**.  
+      ✨ I believe programming languages are just tools to adapt to according to the situation. 
       
-<td >
-# this is my daily.dev card, you can edit this accordingly
+    <td>
+       <a href="https://app.daily.dev/kelvink"><img src="https://api.daily.dev/devcards/00b88e58f5b04e1692cf59516f7f8edf.png?r=snj" width="400" alt="Absolutekelvin273's Dev Card"/></a>
+
 
     </td>
     
