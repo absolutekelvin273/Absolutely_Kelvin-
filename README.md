@@ -15,8 +15,8 @@
  🎯 My Goal is to gain more and more knowledge  to as many ****open source project**** as possible.    
       
       
-  ✨ I believe programming languages are just tools to adapt to according to the situation.   
-      
+  ✨ I believe programming languages are just tools to adapt to according to the situation send me an EMAIL and lets talk more.   
+      <link>kelvinkakuru2@gmail.com</link>
       
     
    </td>
