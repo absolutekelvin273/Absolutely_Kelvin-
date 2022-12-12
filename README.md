@@ -9,13 +9,13 @@
  🎓  I am currently pursuing my ****Bachelor's in Information Technology and Software Engineering****.  
       
       
- 🌱 I am currently learning ****C**** and also interested in ****Cloud and Systems Development and Maintenance****.    
+ 🌱 I am currently learning ****Python**** and also interested in ****Cloud and Systems Development and Maintenance****.    
       
         
- 🎯 My Goal is to gain more and more knowledge  to as many ****open source project**** as possible.    
+ 🎯 My Goal is to gain more and more knowledge  to contribute to as many ****open source project**** as possible.    
       
       
-  ✨ I believe programming languages are just tools to adapt to according to the situation send me an EMAIL and lets talk more.   
+  ✨ I believe programming languages are just tools to adapt to depending on the situation send me an EMAIL and lets talk more.   
       <link>kelvinkakuru2@gmail.com</link>
       
     
