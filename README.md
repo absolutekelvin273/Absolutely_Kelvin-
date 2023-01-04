@@ -16,7 +16,7 @@
       
       
   ✨ I believe programming languages are just tools to adapt to depending on the situation send me an EMAIL and lets talk more.   
-      <link>kelvinkakuru2@gmail.com</link>
+     
       
     
    </td>
