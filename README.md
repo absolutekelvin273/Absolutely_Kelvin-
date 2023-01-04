@@ -21,7 +21,6 @@
     
    </td>
     <td>
-      <a href="https://app.daily.dev/kelvink"><img src="https://api.daily.dev/devcards/00b88e58f5b04e1692cf59516f7f8edf.png?r=snj" width="500" alt="Absolutekelvin273's Dev Card"/></a>
     </td>
     
   </tr>
